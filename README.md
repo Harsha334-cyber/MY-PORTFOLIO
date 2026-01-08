@@ -26,3 +26,5 @@ Power BI dashboards visualizing earthquake trends and insights.
 Email: harshaadapa23@gmail.com
 LinkedIn: https://www.linkedin.com/in/harsha-adapa-822b88359
 GitHub: https://github.com/Harsha334-cyber
+**LIVE SERVER**
+https://harsha334-cyber.github.io/MY-PORTFOLIO/
