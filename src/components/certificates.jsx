@@ -27,7 +27,7 @@ export default function Certificates() {
           Learned Python programming for data analysis including NumPy, Pandas,
           data visualization, and real-world data handling techniques.
         </p>
-        <span className="issuer">NPTEL</span>
+        <span className="issuer">ISTUDIO</span>
       </div>
 
       <div className="certificate-card">
