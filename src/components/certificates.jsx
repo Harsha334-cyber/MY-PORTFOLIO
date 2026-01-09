@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export default function Certificates() {
+export default function certificates() {
   return (
     <motion.section
       id="certificates"
